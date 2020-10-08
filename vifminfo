@@ -1,0 +1,90 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'H
+	/Users/zhangxiaomin/
+	..
+1602165767
+'b
+	/Users/zhangxiaomin/bin/
+	..
+1602165767
+'h
+	/Users/zhangxiaomin/
+	..
+1602165767
+'z
+	/Users/zhangxiaomin/.config/vifm
+	..
+1602165767
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v1
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/Users/zhangxiaomin/.config/nvim
+	plugged
+1
+d/Users/zhangxiaomin/.config/nvim/plugged
+	..
+0
+d/Users/zhangxiaomin/.config/nvim
+	template
+2
+d/Users/zhangxiaomin/.config/nvim/template
+	..
+0
+d/Users/zhangxiaomin/.config/nvim
+	..
+0
+d/Users/zhangxiaomin/.config
+	nvim
+7
+d/Users/zhangxiaomin/.config/nvim
+	coc-settings.json
+6
+d
+
+# Right window history (oldest to newest):
+D/Users/zhangxiaomin/.config/nvim
+	..
+0
+D
+
+# Command line history (oldest to newest):
+:help 
+:only
+:terminal
+:term
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0

@@ -30,6 +30,12 @@ l2
 r2
 
 # Left window history (oldest to newest):
+d/Users/zhangxiaomin/workSpace/python/src/leetcode/test
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src/python_data_analysis
+	python_data_visualization.py
+7
 d/Users/zhangxiaomin/.config/nvim
 	plugged
 1
@@ -49,8 +55,143 @@ d/Users/zhangxiaomin/.config
 	nvim
 7
 d/Users/zhangxiaomin/.config/nvim
-	coc-settings.json
-6
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	workSpace
+15
+d/Users/zhangxiaomin/workSpace
+	python
+17
+d/Users/zhangxiaomin/workSpace/python
+	src
+2
+d/Users/zhangxiaomin/workSpace/python/src
+	my-manager
+3
+d/Users/zhangxiaomin/workSpace/python/src/my-manager
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src
+	leetcode
+2
+d/Users/zhangxiaomin/workSpace/python/src/leetcode
+	array
+1
+d/Users/zhangxiaomin/workSpace/python/src/leetcode/array
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src/leetcode
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src
+	my-manager
+3
+d/Users/zhangxiaomin/workSpace/python/src/my-manager
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src
+	..
+0
+d/Users/zhangxiaomin/workSpace/python
+	src
+2
+d/Users/zhangxiaomin/workSpace/python/src
+	redis
+10
+d/Users/zhangxiaomin/workSpace/python/src/redis
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src
+	python_base
+5
+d/Users/zhangxiaomin/workSpace/python/src/python_base
+	..
+0
+d/Users/zhangxiaomin/workSpace/python/src
+	python_base
+5
+d/Users/zhangxiaomin/workSpace/nodejs/node_base
+	..
+0
+d/Users/zhangxiaomin/workSpace/nodejs
+	readme.md
+10
+d/Users/zhangxiaomin/workSpace/nodejs/node_base
+	..
+0
+d/Users/zhangxiaomin/workSpace/nodejs
+	node_base
+1
+d/Users/zhangxiaomin/workSpace/nodejs/node_base
+	hello_node.js
+1
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	Pictures
+9
+d/Users/zhangxiaomin/Pictures
+	..
+0
+d/Users/zhangxiaomin
+	dead.letter
+17
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	Pictures
+9
+d/Users/zhangxiaomin/Pictures
+	WechatIMG78.jpeg
+7
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	workSpace
+15
+d/Users/zhangxiaomin/workSpace
+	python
+17
+d/Users/zhangxiaomin/workSpace/python
+	..
+0
+d/Users/zhangxiaomin/workSpace
+	python
+17
+d/Users/zhangxiaomin/workSpace/python
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	vifmrc
+5
 d
 
 # Right window history (oldest to newest):
@@ -64,6 +205,13 @@ D
 :only
 :terminal
 :term
+:colorscheme dark
+:hel[
+:help
+:help color
+:e hello_world.md
+:tabclose
+:pwd
 :q
 
 # Search history (oldest to newest):

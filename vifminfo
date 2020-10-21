@@ -190,6 +190,57 @@ d/Users/zhangxiaomin/workSpace/python
 	..
 0
 d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	workSpace
+15
+d/Users/zhangxiaomin/workSpace
+	..
+0
+d/Users/zhangxiaomin
+	vimwiki
+14
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	Default.vifm
+1
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
 	vifmrc
 5
 d
@@ -207,11 +258,14 @@ D
 :term
 :colorscheme dark
 :hel[
-:help
 :help color
 :e hello_world.md
 :tabclose
 :pwd
+:help
+:view
+:jk
+:echo $TERM
 :q
 
 # Search history (oldest to newest):

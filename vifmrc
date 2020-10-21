@@ -1,3 +1,5 @@
+let $TERM='iterm2'
+
 " vim: filetype=vifm :
 " Sample configuration file for vifm on OSX (last updated: 2 June, 2019)
 " You can edit this file by hand.

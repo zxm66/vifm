@@ -42,7 +42,7 @@
 " xterm-256color) from /usr/lib/terminfo/; you can check current number
 " of colors in your terminal with tput colors command)
 
-" highlight group cterm=attrs ctermfg=foreground_color ctermbg=background_color
+highlight group cterm=attrs ctermfg=foreground_color ctermbg=background_color
 
 highlight clear
 

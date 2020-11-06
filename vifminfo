@@ -30,21 +30,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/zhangxiaomin/workSpace/python/src/leetcode/test
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src/python_data_analysis
-	python_data_visualization.py
-7
-d/Users/zhangxiaomin/.config/nvim
-	plugged
-1
-d/Users/zhangxiaomin/.config/nvim/plugged
-	..
-0
-d/Users/zhangxiaomin/.config/nvim
-	template
-2
 d/Users/zhangxiaomin/.config/nvim/template
 	..
 0
@@ -243,15 +228,348 @@ d/Users/zhangxiaomin/.config/vifm/scripts
 d/Users/zhangxiaomin/.config/vifm
 	vifmrc
 5
+d/Users/zhangxiaomin/workSpace/src
+	hello_world.java
+5
+d/Users/zhangxiaomin/workSpace/nodejs
+	node_base
+1
+d/Users/zhangxiaomin/workSpace/nodejs/node_base
+	..
+0
+d/Users/zhangxiaomin/workSpace/nodejs
+	hello_world.html
+6
+d/Users/zhangxiaomin/workSpace/scala
+	scala_base
+1
+d/Users/zhangxiaomin/workSpace/scala/scala_base
+	scala_rocks.scala
+14
+d/Users/zhangxiaomin/workSpace/scala
+	scala_base
+1
+d/usr/local/Cellar/scala/2.13.2
+	bin
+1
+d/usr/local/Cellar/scala/2.13.2/bin
+	scala
+2
+d/Users/zhangxiaomin/sourceSpace
+	jdk
+8
+d/Users/zhangxiaomin/sourceSpace/jdk
+	src
+5
+d/Users/zhangxiaomin/sourceSpace/jdk/src
+	java.base
+3
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base
+	share
+4
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share
+	classes
+1
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share/classes
+	java
+3
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share/classes/java
+	util
+9
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share/classes/java/util
+	stream
+6
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share/classes/java/util/stream
+	..
+0
+d/Users/zhangxiaomin/sourceSpace/jdk/src/java.base/share/classes/java/util
+	package-info.java
+39
+d/Users/zhangxiaomin/.config
+	vifm
+9
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	neofetch
+6
+d/Users/zhangxiaomin/.config/neofetch
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	dead.letter
+16
+d/Users/zhangxiaomin/.config
+	vifm
+9
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	zenburn_1.vifm
+28
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	Pictures
+8
+d/Users/zhangxiaomin/Pictures
+	..
+0
+d/Users/zhangxiaomin
+	Movies
+6
 d
 
 # Right window history (oldest to newest):
+D/Users/zhangxiaomin/.config
+	coc
+1
+D/Users/zhangxiaomin/.config/coc
+	extensions
+1
+D/Users/zhangxiaomin/.config/coc/extensions
+	node_modules
+9
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions
+	..
+0
+D/Users/zhangxiaomin/.config/coc
+	ultisnips
+2
+D/Users/zhangxiaomin/.config/coc/ultisnips
+	..
+0
+D/Users/zhangxiaomin/.config/coc
+	..
+0
+D/Users/zhangxiaomin/.config
+	coc
+1
+D/Users/zhangxiaomin/.config/coc
+	extensions
+1
+D/Users/zhangxiaomin/.config/coc/extensions
+	node_modules
+9
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions
+	coc-java-data
+3
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data
+	server
+12
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	plugins
+8
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server/plugins
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	features
+7
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server/features
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	config_ss_mac
+4
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server/config_ss_mac
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	config_mac
+2
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server/config_mac
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	config_win
+6
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server/config_win
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data
+	jdt_ws_2c88b3504726629715c2a71cfd2fcca2
+1
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2
+	jdt.ls-java-project
+1
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project
+	bin
+1
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project/bin
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project
+	src
+2
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project/src
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project
+	src
+2
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project/src
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2/jdt.ls-java-project
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/jdt_ws_2c88b3504726629715c2a71cfd2fcca2
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data
+	server
+12
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data/server
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/coc-java-data
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions
+	node_modules
+9
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	coc-clangd
+2
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-clangd
+	lib
+1
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-clangd/lib
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-clangd
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	coc-terminal
+22
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-terminal
+	lib
+1
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-terminal/lib
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-terminal
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	coc-db
+3
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules/coc-db
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions/node_modules
+	..
+0
+D/Users/zhangxiaomin/.config/coc/extensions
+	..
+0
+D/Users/zhangxiaomin/.config/coc
+	..
+0
+D/Users/zhangxiaomin/.config
+	configstore
+2
+D/Users/zhangxiaomin/.config/configstore
+	..
+0
+D/Users/zhangxiaomin/.config
+	htop
+3
+D/Users/zhangxiaomin/.config/htop
+	..
+0
+D/Users/zhangxiaomin/.config
+	mc
+5
+D/Users/zhangxiaomin/.config/mc
+	mcedit
+1
+D/Users/zhangxiaomin/.config/mc/mcedit
+	..
+0
+D/Users/zhangxiaomin/.config/mc
+	..
+0
+D/Users/zhangxiaomin/.config
+	neofetch
+6
+D/Users/zhangxiaomin/.config/neofetch
+	..
+0
+D/Users/zhangxiaomin/.config
+	ranger
+8
+D/Users/zhangxiaomin/.config/ranger
+	..
+0
+D/Users/zhangxiaomin/.config
+	vifm
+9
+D/Users/zhangxiaomin/.config/vifm
+	..
+0
+D/Users/zhangxiaomin/.config
+	vifm
+9
+D/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+D/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+D/Users/zhangxiaomin/.config/vifm
+	vifmrc
+5
 D/Users/zhangxiaomin/.config/nvim
 	..
 0
 D
 
 # Command line history (oldest to newest):
+:touch ListTest.java
+:! mkdir -p webapp
+:mkdir css
+:touch test01.css
+:mkdir html
+:mkdir js
+:touch test1.html
+:set termcolors
+:set termguicolors
+:set wildmenu
+:colorscheme Default
+:colorscheme ph
+:colorscheme astrell
+:colorscheme desert
+:colorscheme gruvbox
+:j
+:set wildstyle=bar
+:set wildstyle=popup
+:fileviewer
+:Te
+:ter
 :help 
 :only
 :terminal
@@ -266,11 +584,14 @@ D
 :view
 :jk
 :echo $TERM
+:!node *.js
+:touch HelloWorld.scala
 :q
 
 # Search history (oldest to newest):
 
 # Prompt history (oldest to newest):
+pjdk
 
 # Local filter history (oldest to newest):
 

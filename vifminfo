@@ -26,21 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/zhangxiaomin/workSpace/python/src
-	python_base
-5
-d/Users/zhangxiaomin/workSpace/nodejs/node_base
-	..
-0
-d/Users/zhangxiaomin/workSpace/nodejs
-	readme.md
-10
-d/Users/zhangxiaomin/workSpace/nodejs/node_base
-	..
-0
-d/Users/zhangxiaomin/workSpace/nodejs
-	node_base
-1
 d/Users/zhangxiaomin/workSpace/nodejs/node_base
 	hello_node.js
 1
@@ -326,6 +311,21 @@ d/Users/zhangxiaomin/.config/ranger
 d/Users/zhangxiaomin/.config/ranger/plugins
 	..
 0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	neofetch
+6
+d/Users/zhangxiaomin/.config/neofetch
+	config.conf
+2
 d
 
 # Right window history (oldest to newest):

@@ -13,10 +13,6 @@
 	/Users/zhangxiaomin/
 	..
 1602165767
-'z
-	/Users/zhangxiaomin/.config/vifm
-	..
-1602165767
 
 # Bookmarks:
 
@@ -30,72 +26,6 @@ l2
 r2
 
 # Left window history (oldest to newest):
-d/Users/zhangxiaomin/.config/nvim/template
-	..
-0
-d/Users/zhangxiaomin/.config/nvim
-	..
-0
-d/Users/zhangxiaomin/.config
-	nvim
-7
-d/Users/zhangxiaomin/.config/nvim
-	..
-0
-d/Users/zhangxiaomin/.config
-	..
-0
-d/Users/zhangxiaomin
-	workSpace
-15
-d/Users/zhangxiaomin/workSpace
-	python
-17
-d/Users/zhangxiaomin/workSpace/python
-	src
-2
-d/Users/zhangxiaomin/workSpace/python/src
-	my-manager
-3
-d/Users/zhangxiaomin/workSpace/python/src/my-manager
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src
-	leetcode
-2
-d/Users/zhangxiaomin/workSpace/python/src/leetcode
-	array
-1
-d/Users/zhangxiaomin/workSpace/python/src/leetcode/array
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src/leetcode
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src
-	my-manager
-3
-d/Users/zhangxiaomin/workSpace/python/src/my-manager
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src
-	..
-0
-d/Users/zhangxiaomin/workSpace/python
-	src
-2
-d/Users/zhangxiaomin/workSpace/python/src
-	redis
-10
-d/Users/zhangxiaomin/workSpace/python/src/redis
-	..
-0
-d/Users/zhangxiaomin/workSpace/python/src
-	python_base
-5
-d/Users/zhangxiaomin/workSpace/python/src/python_base
-	..
-0
 d/Users/zhangxiaomin/workSpace/python/src
 	python_base
 5
@@ -330,6 +260,72 @@ d/Users/zhangxiaomin/Pictures
 d/Users/zhangxiaomin
 	Movies
 6
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	..
+0
+d/Users/zhangxiaomin
+	workSpace
+14
+d/Users/zhangxiaomin/workSpace
+	src
+2
+d/Users/zhangxiaomin/workSpace/jdk/doc
+	..
+0
+d/Users/zhangxiaomin/workSpace/jdk
+	script.js
+17
+d/Users/zhangxiaomin/.config/vifm
+	scripts
+2
+d/Users/zhangxiaomin/.config/vifm/scripts
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	colors
+1
+d/Users/zhangxiaomin/.config/vifm/colors
+	..
+0
+d/Users/zhangxiaomin/.config/vifm
+	..
+0
+d/Users/zhangxiaomin/.config
+	ranger
+8
+d/Users/zhangxiaomin/.config/ranger
+	plugins
+2
+d/Users/zhangxiaomin/.config/ranger/plugins
+	..
+0
 d
 
 # Right window history (oldest to newest):
@@ -546,6 +542,15 @@ D/Users/zhangxiaomin/.config/vifm
 D/Users/zhangxiaomin/.config/nvim
 	..
 0
+D/Users/zhangxiaomin/.config
+	..
+0
+D/Users/zhangxiaomin
+	workSpace
+14
+D/Users/zhangxiaomin/workSpace
+	tags
+24
 D
 
 # Command line history (oldest to newest):
@@ -579,13 +584,17 @@ D
 :help color
 :e hello_world.md
 :tabclose
-:pwd
-:help
 :view
 :jk
 :echo $TERM
 :!node *.js
 :touch HelloWorld.scala
+:help
+:nvim
+:! nvim .
+:pwd
+:!nvim .
+:source vifmrc
 :q
 
 # Search history (oldest to newest):
